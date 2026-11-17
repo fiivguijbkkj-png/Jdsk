@@ -1,0 +1,10 @@
+{
+  "name": "Remix Parto AI",
+  "description": "پرتو — دستیار هوش مصنوعی نامحدود و رایگان برای گفت‌وگو، تحلیل تصویر، برنامه‌نویسی و جستجوی زنده وب",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
